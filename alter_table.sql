@@ -1,0 +1,1 @@
+ALTER TABLE finaltable ADD COLUMN Department VARCHAR(255);
